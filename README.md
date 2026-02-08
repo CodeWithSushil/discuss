@@ -9,28 +9,13 @@ What is new in ***🐘 PHP ?*** Upcoming new features in your favourite programi
 ___
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [License](#license)
+- [Attribute](#attribute)
+  - [No Discard](#nodiscard)
 
 ---
 
-## Introduction
-Some text here...
-
-## Installation
-Steps here...
-
-## Usage
-How to use...
-
-## Configuration
-Config details...
-
-## License
-MIT
+### Attribute
+- No Discard
 ```php
 <?php
 
