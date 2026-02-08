@@ -8,8 +8,29 @@ What is new in ***🐘 PHP ?*** Upcoming new features in your favourite programi
 
 ___
 
-### Content of table 
-##### No Discard attribute with example
+## Table of Contents
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [License](#license)
+
+---
+
+## Introduction
+Some text here...
+
+## Installation
+Steps here...
+
+## Usage
+How to use...
+
+## Configuration
+Config details...
+
+## License
+MIT
 ```php
 <?php
 
