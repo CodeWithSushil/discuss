@@ -30,4 +30,4 @@ function getName(): string {
 ```
 
 ### Licence
-This repository under [AGPL-3.0](./LICENCE.md) licence.
+This repository under [AGPL-3.0](./https://github.com/CodeWithSushil/discuss/blob/master/LICENSE.md) licence.
