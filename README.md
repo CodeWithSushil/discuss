@@ -28,3 +28,4 @@ function getName(): string {
 (void) getName();
 
 ```
+This repository under [GNU AFFERO GENERAL PUBLIC LICENSE](LICENCE).
