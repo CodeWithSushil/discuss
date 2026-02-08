@@ -23,6 +23,7 @@ declare(strict_types=1);
 
 #[\NoDiscard("No Discard")]
 function getName(): string {
+    return 'Sushil Kumar!';
 }
 
 (void) getName();
